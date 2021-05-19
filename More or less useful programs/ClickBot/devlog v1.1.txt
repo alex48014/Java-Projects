@@ -1,0 +1,7 @@
+
+version = v1.1
+
+new : 
+
+ - code is better storaged
+ - cleaner code
