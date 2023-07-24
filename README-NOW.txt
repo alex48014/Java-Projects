@@ -1,5 +1,5 @@
 # Java-Projects
-A collection of all my Java projects
+A collection of some of my Java projects
 
 However:
 
